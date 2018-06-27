@@ -1,0 +1,35 @@
+}
+#Black{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-size:bold;
+  background:black;
+}
+#Blue{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-size:bold;
+  background:MAROON;
+}
+#red{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-size:bond;
+  background:BLUE;
+}
+#white{
+  margin:50px;
+  padding:50px;
+  font-size:100;
+  font-size:bond;
+  background:BROWN;
+}
+#green{
+  margin:50px;
+  padding:50px;
+  font-size:30;
+  font-size:bond;
+  background:green;

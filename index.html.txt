@@ -1,0 +1,25 @@
+<H1>they know me by the name SAIDO(REBORN)</H1>
+A LIST OF MY FAVOURITE MOVIES
+<U1>
+  <Li>STAR WARS</LI>
+  <Li>PETER RABBIT</LI>
+    <Li>THE LAST SHIP</LI>
+  
+</U1>
+FIND ME ON FACEBOOK@REBORN HOMMIE NG<U1>
+ <DIV CLASS=IMAGE>
+   <IMG SRC=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFpsEGMafzQTclsyZj2O1gk-D0vO3qi4NzE_ZqzHYUn-1duKl>
+      <li id="Black">SIREN</li>   
+    <li id="Blue">KILLER SAVAGE</li>
+    <li id="red">INTO THE BADLANDS</li>
+    <li id="white">HOME ALONE</li>
+    <li id="green">THE RAID</li
+        <!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </body>  
+</html>
+  
+ <!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </body>  
+</html>
